@@ -1,5 +1,5 @@
 # Leverage and Contagion Effects in Implied Volatility Surfaces: A Mixed Neural Vine Copula Approach
-_Project by Luca Leimbeck Del Duca | **Partner Firm:** Optiver_
+_Project by Melvin Bazeille | **Partner Firm:** Optiver_
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)
