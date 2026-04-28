@@ -1,12 +1,6 @@
 # Leverage and Contagion Effects in Implied Volatility Surfaces: A Mixed Neural Vine Copula Approach
 _Project by Melvin Bazeille | **Partner Firm:** Optiver_
 
-![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)
-![uv](https://img.shields.io/badge/uv-fast_package_manager-black.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-research--complete-success.svg)
-
 ## Abstract 
 Forecasting the joint evolution of implied volatility surfaces across a high-dimensional universe of assets is a critical challenge for market makers, particularly during periods of systemic stress. Traditional econometric models often struggle to reconcile the arbitrage-free geometry of the surface with the complex, non-linear dependence structure of asset returns. This paper proposes a unified deep generative framework that decomposes the joint forecasting problem into three sequential stages: geometry, dynamics, and topology. 
 
